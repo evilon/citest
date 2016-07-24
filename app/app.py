@@ -1,7 +1,7 @@
 def math_science(value):
     """
     >>> math_science(1)
-    3
+    2
     """
     return 1 + value
 
