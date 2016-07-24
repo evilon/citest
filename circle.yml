@@ -1,0 +1,4 @@
+machine:
+  post:
+    - pyenv install
+    - pyenv global 3.5.0
