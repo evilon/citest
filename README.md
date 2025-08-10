@@ -2,4 +2,4 @@
 
 Testing CI
 
-sub1 edit (test)
+sub1 edit (test) sub1 second edit
